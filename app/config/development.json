@@ -1,0 +1,13 @@
+{
+	"host": "http://localhost:3000",
+	"dbURI": "mongodb://localhost:27017/chatcat",
+	"sessionSecret": "catscanfly",
+	"S3AccessKey":"<your-s3-access-key>",
+	"S3Secret":"<your-s3-secret>",
+	"S3Bucket":"photogrid",
+		"redis": {
+		"host": "127.0.0.1",
+		"port": 6379,
+		"password": ""
+	}
+}
