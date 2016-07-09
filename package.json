@@ -21,6 +21,6 @@
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^4.0.0",
     "knox": "^0.9.0",
-    "formidable": "^1.0.15",
+    "formidable": "^1.0.15"
   }
 }
